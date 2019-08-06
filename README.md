@@ -42,7 +42,11 @@ npm install
 
 ```bash
 react-native run-ios
+
 ```
+
+* Or Run the app in Xcode open stadiumgoods.xcworkspace then click run. 
+* if you run into Error 65. I have also sent a zip file just in case
 
 ### 5. Run on Andriod 🎉
 
